@@ -11,7 +11,7 @@ The game is developed using Python language. Specifically, I used **Pygame** to 
 ### What is Pygame
 
 Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
-For more information, you can click [here](http://github.com)
+For more information, you can click [here](https://www.pygame.org/docs/)
 
 ### What development skills were needed to develop this game
 
